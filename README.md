@@ -340,8 +340,8 @@ var  oConfigCall = {
         }
    
    ```    
-      ##  Unregiter
-         ```    
+##  Unregiter
+    ```    
          oSipStack.stop(); // shutdown all sessions
          window.localStorage.clear(); // Remove configure extension
          Example:
@@ -353,9 +353,8 @@ var  oConfigCall = {
             }
             return "Logout Success";
         }
-            ```    
-            
-    ## Demo 
+    ```    
+## Demo 
     https://api-stagging-callcenter.bizflycloud.vn/webphone_crm/call.html
    
    
